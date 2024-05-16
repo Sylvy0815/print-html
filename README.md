@@ -9,3 +9,7 @@ pip3 install weasyprint
 brew install pango cairo gdk-pixbuf
 pip install --upgrade --force-reinstall weasyprint
 ```
+
+```sh
+python3 main.py
+```
