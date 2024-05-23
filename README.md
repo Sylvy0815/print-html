@@ -1,6 +1,6 @@
 # print-html
 
-특정 html 요소를 출력할 수 있도록 하는 프로젝트입니다.
+특정 html 요소를 PDF 파일로 출력할 수 있도록 하는 프로젝트입니다.
 
 ```sh
 python3 -venv print-html-venv
